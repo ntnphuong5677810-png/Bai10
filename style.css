@@ -597,9 +597,18 @@ header{
     align-items: center;
 }
 
+.line_scetion_5{
+    width: 317px;
+    height: 0;
+    border: 1px solid rgba(0, 0, 0, 1);
+}
+
 .wrap_card_section_5{
     width: 317px;
     height: 273.8233642578125px;
+    display: flex;
+    flex-direction: column;
+    gap: 28px;
 }
 
 .person{

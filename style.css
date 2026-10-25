@@ -820,6 +820,11 @@ header{
     align-items: flex-start;
 }
 
+.box_special::placeholder{
+    font-size: 18px;
+    line-height: 100%;
+}
+
 textarea{
     border: none;
     outline: none;
